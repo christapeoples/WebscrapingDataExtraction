@@ -1,0 +1,3 @@
+job title
+salary
+company
